@@ -11,16 +11,16 @@ function About() {
 				Results-driven Cloud Engineer with hands-on experience in AWS, Azure, and GCP. Skilled in designing, deploying, and managing scalable cloud solutions with a focus on security, automation, and cost optimization. Proficient in IaC tools like Terraform and CloudFormation, with a passion for problem-solving and continuous learning. Adept at building reliable infrastructure and collaborating in fast-paced environments to drive innovation.
 				</p>
 				<a
-					href="vikasinishanmugasundaram@gmail.com"
+					href="dhanusri@gmail.com"
 					className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
 				>
-					vikasinishanmugasundaram@gmail.com
+					dhanusri@gmail.com
 				</a>
 			</div>
 
 			<img
 				src={myImg}
-				alt="Vikasini"
+				alt="Dhanusri"
 				className="w-full md:w-6/12 rounded-lg object-cover"
 			/>
 		</div>
